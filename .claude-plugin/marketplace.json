@@ -7,5 +7,15 @@
     "description": "Second State Plugins",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "vibekeys",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/second-state/vibekeys_app.git",
+        "path": "vibekeys_plugin"
+      },
+      "description": "VibeKeys BLE controller - sends messages/status to BLE keyboard"
+    }
+  ]
 }
