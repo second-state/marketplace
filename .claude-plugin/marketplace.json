@@ -1,0 +1,11 @@
+{
+  "name": "second-state-tools",
+  "owner": {
+    "name": "Second State"
+  },
+  "metadata": {
+    "description": "Second State Plugins",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
