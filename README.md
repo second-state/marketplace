@@ -263,3 +263,7 @@ Codex:
 ```bash
 codex plugin remove vibekeys@second-state-tools
 ```
+
+## License
+
+MIT
